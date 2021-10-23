@@ -1,0 +1,19 @@
+.header__content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 81.11%;
+    margin: auto;
+}
+
+@media screen and (max-width: 1439px) {
+    .header__content {
+      width: 95%;
+    }
+}
+@media screen and (max-width: 767px) {
+    .header__content {
+      flex-wrap: wrap;
+      width: 89%;
+    }
+}

@@ -1,0 +1,16 @@
+.main__content{
+    width: 81.25%;
+    margin: auto;
+}
+
+@media screen and (max-width: 1439px) {
+    .main__content{
+        width: 94.7%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .main__content{
+        width: 89.7%;
+    }
+}

@@ -1,0 +1,14 @@
+@import url("./blocks/header/header.css");
+@import url("./blocks/main/main.css");
+@import url("./blocks/search-field/search-field.css");
+@import url("./blocks/user-data/user-data.css");
+@import url("./blocks/title/title.css");
+@import url("./blocks/partner-logos/partner-logos.css");
+@import url("./blocks/partner-logo-container/partner-logo-container.css");
+@import url("./blocks/partner-logo/partner-logo.css");
+
+.body{
+    min-width: 320px;
+    max-width: 1440px;
+    margin: 0 auto;
+}

@@ -1,0 +1,22 @@
+.partner-logos{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-start;
+    margin: 0;
+    gap: 30px;
+}
+
+@media screen and (max-width: 1439px) {
+    .partner-logos{
+        gap: 20px;
+    }
+}
+
+@media screen and (max-width: 728px) {
+    .partner-logos{
+        gap: 20px;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}

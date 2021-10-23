@@ -1,0 +1,11 @@
+.user-data_mobile{
+    display: none;
+    padding-top: 22px;
+    padding-bottom: 16px;
+}
+
+@media screen and (max-width: 767px) {
+    .user-data_mobile{
+        display: unset;
+    }
+}

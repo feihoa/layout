@@ -1,0 +1,30 @@
+@import url("./__input/search-field__input.css");
+@import url("./__search-icon/search-field__search-icon.css");
+
+.search-field{
+    display: inline-flex;
+    border: 1px solid #EBEBF1;
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 65.32%;
+}
+
+@media screen and (max-width: 1439px) {
+    .search-field{
+        width: 47.03%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .search-field{
+        width: 100%;
+        border-left: 0;
+        border-right: 0;
+        margin-left: -3.105%;
+        margin-right: -2.105%;
+        padding-right: 6.315%;
+        border-radius: 0;
+        box-sizing: content-box;
+
+    }
+}

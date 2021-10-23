@@ -1,0 +1,19 @@
+@import url("./__name/user-data__name.css");
+@import url("./__img/user-data__img.css");
+@import url("./_mobile/user-data_mobile.css");
+
+.user-data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:129px;
+    border-left:1px solid #EBEBF1;
+    padding:20px 0px 20px 19px;
+
+}
+
+@media screen and (max-width: 767px) {
+    .user-data{
+        display: none;
+    }
+}

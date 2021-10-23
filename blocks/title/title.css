@@ -1,0 +1,24 @@
+.title{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 160%;
+    margin:70px 0 30px;
+
+    text-transform: uppercase;
+
+    color: #121920;
+}
+
+@media screen and (max-width: 1439px) {
+    .title{
+        font-size: 28px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .title{
+        margin-top:68px 
+    }
+}

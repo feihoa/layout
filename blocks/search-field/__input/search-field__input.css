@@ -1,0 +1,22 @@
+.search-field__input{
+    line-height: 40px;
+    box-sizing: border-box;
+    padding: 0;
+    border: none;
+    width: 100%;
+}
+
+.search-field__input::placeholder{
+    color: #BBC4D6;
+}
+
+.search-field__input:focus{
+    outline: none;
+}
+
+
+@media screen and (max-width: 767px) {
+    .search-field__input{
+        line-height: 42px;
+    }
+}
