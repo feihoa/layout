@@ -1,3 +1,16 @@
 .user-data__name{
     margin: 0;
+    cursor: pointer;
+    letter-spacing: -0.3px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 120%;
+
+    text-align: right;
+    letter-spacing: 0.8px;
+
+    color: #768298;
 }

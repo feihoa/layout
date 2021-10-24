@@ -8,6 +8,7 @@
 
 .search-field__input::placeholder{
     color: #BBC4D6;
+    letter-spacing: 0.8px;
 }
 
 .search-field__input:focus{
