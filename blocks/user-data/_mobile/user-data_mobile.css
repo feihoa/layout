@@ -2,6 +2,7 @@
     display: none;
     padding-top: 22px;
     padding-bottom: 16px;
+    cursor: pointer;
 }
 
 @media screen and (max-width: 767px) {
