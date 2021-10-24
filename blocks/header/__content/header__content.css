@@ -1,4 +1,4 @@
-.header__content{
+.header__content {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -8,12 +8,13 @@
 
 @media screen and (max-width: 1439px) {
     .header__content {
-      width: 95%;
+        width: 95%;
     }
 }
+
 @media screen and (max-width: 767px) {
     .header__content {
-      flex-wrap: wrap;
-      width: 89%;
+        flex-wrap: wrap;
+        width: 89%;
     }
 }

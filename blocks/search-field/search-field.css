@@ -1,7 +1,6 @@
 @import url("./__input/search-field__input.css");
 @import url("./__search-icon/search-field__search-icon.css");
-
-.search-field{
+.search-field {
     display: inline-flex;
     border: 1px solid #EBEBF1;
     box-sizing: border-box;
@@ -10,13 +9,13 @@
 }
 
 @media screen and (max-width: 1439px) {
-    .search-field{
+    .search-field {
         width: 47.03%;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .search-field{
+    .search-field {
         width: 100%;
         border-left: 0;
         border-right: 0;
@@ -25,14 +24,14 @@
         padding-right: 12.315%;
         border-radius: 0;
         box-sizing: content-box;
-        padding-left: 5%;;
-
+        padding-left: 5%;
+        ;
     }
 }
 
 @media screen and (max-width: 376px) {
-    .search-field{
-        padding-left: 4%;;
-
+    .search-field {
+        padding-left: 4%;
+        ;
     }
 }

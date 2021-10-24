@@ -1,25 +1,23 @@
-.title{
+.title {
     font-family: Roboto;
     font-style: normal;
     font-weight: 500;
     font-size: 36px;
     line-height: 160%;
-    margin:70px 0 30px;
+    margin: 70px 0 30px;
     letter-spacing: -0.39px;
-
     text-transform: uppercase;
-
     color: #121920;
 }
 
 @media screen and (max-width: 1439px) {
-    .title{
+    .title {
         font-size: 28px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .title{
-        margin-top:68px 
+    .title {
+        margin-top: 68px
     }
 }

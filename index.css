@@ -7,11 +7,8 @@
 @import url("./blocks/partner-logo-container/partner-logo-container.css");
 @import url("./blocks/logo/logo.css");
 @import url("./blocks/partner-logo/partner-logo.css");
-
-.body{
+.body {
     min-width: 320px;
     max-width: 1440px;
-
     margin: 0 auto;
 }
-

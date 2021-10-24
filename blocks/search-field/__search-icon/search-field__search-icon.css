@@ -1,4 +1,4 @@
-.search-field__search-icon{
+.search-field__search-icon {
     width: 24px;
     height: 24px;
     margin-right: 5px;
@@ -7,8 +7,7 @@
 }
 
 @media screen and (max-width: 769px) {
-    .search-field__search-icon{
+    .search-field__search-icon {
         padding: 8px 0px 8px 8px;
     }
 }
-

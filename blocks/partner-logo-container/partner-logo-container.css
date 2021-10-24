@@ -1,9 +1,8 @@
-.partner-logo-container{
+.partner-logo-container {
     width: 23.05%;
     height: 120px;
     margin: 0;
     min-width: 160px;
-
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +10,6 @@
     border: 1px solid #EBEBF1;
     box-sizing: border-box;
     border-radius: 5px;
-
     flex: none;
     order: 0;
     flex-grow: 0;
@@ -19,7 +17,7 @@
     cursor: pointer;
 }
 
-.partner-logo-container:hover{
+.partner-logo-container:hover {
     box-shadow: -3px 0px 40px rgba(0, 0, 0, 0.1), 0px 0px 10px rgba(164, 164, 164, 0.03);
     margin: 0px;
 }
@@ -29,6 +27,7 @@
         width: calc((100% / 3) - 13.4px);
     }
 }
+
 @media screen and (max-width: 767px) {
     .partner-logo-container {
         width: 99.4%;
