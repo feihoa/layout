@@ -29,3 +29,10 @@
 
     }
 }
+
+@media screen and (max-width: 376px) {
+    .search-field{
+        padding-left: 4%;;
+
+    }
+}
