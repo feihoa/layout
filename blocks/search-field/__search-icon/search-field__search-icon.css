@@ -12,10 +12,3 @@
     }
 }
 
-@media screen and (max-width: 376px) {
-    .search-field__search-icon{
-        padding-left: 12px;
-        margin-left: 2.3%;
-
-    }
-}
