@@ -28,7 +28,7 @@
         width: calc((100% / 3) - 13.4px);
     }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 375px) {
     .partner-logo-container {
         width: 335px;
         height: 140px;

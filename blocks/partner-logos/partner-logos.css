@@ -6,13 +6,13 @@
     gap: 30px;
 }
 
-@media screen and (max-width: 1439px) {
+@media screen and  (max-width: 1439px) {
     .partner-logos{
         gap: 20px;
     }
 }
 
-@media screen and (max-width: 728px) {
+@media screen and (max-width: 375px) {
     .partner-logos{
         gap: 20px;
         justify-content: center;
